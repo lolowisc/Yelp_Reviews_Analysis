@@ -7,6 +7,12 @@ Goal2: Provide a prediction model to predict the ratings of reviews based on the
 Goal1: Regular Expression, NLTK(pos_tag, word_tokenize), Logistic Regreesion, tf-idf, Linear Regression   
 Goal2: LSTM(keras)
 
+## Slide folder:
+The whole idea of this project.
+
+## Result folder:
+The result of goals respectively.
+
 
 
 
